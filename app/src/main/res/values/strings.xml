@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TelegramDriveMessageConsumer</string>
+    <string name="input_bot_token">Input bot token</string>
+    <string name="grant_permission">*Grant permission to communicate with the telegram bot that has input token</string>
 </resources>
